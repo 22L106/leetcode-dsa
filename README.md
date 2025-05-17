@@ -1,1 +1,1 @@
-# leetcode-dsa
+Even though I have been actively coding in leetcode for the past 8 months, Now I have revisited all the basic concepts sticking to my placements preparation plans. This repository serves as the evidence of my consistency. This documentation will also help me in my future plans of creating a rich resources for DSA and problem solving for beginners.
